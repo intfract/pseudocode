@@ -1,0 +1,6 @@
+constant MAX : integer <- 10
+declare i : integer <- 0
+while i < MAX
+  output i
+endwhile
+MAX <- 0
